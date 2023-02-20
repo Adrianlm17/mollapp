@@ -1,6 +1,6 @@
-# Mollap
+# Mollapp
 
-Pratica Examen JAVA Mollap proporcionado por el profesor [dfleta](https://github.com/dfleta/mollap-intercepting-filter)
+Pratica Examen JAVA Mollapp proporcionado por el profesor [dfleta](https://github.com/dfleta/mollap-intercepting-filter)
 
 
 ## Introdución
