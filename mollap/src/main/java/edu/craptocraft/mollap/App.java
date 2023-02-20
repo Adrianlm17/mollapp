@@ -1,5 +1,10 @@
 package edu.craptocraft.mollap;
 
+import edu.craptocraft.mollap.intercepting.administrador.ProgramadorTasques;
+import edu.craptocraft.mollap.intercepting.client.Mollapp;
+import edu.craptocraft.mollap.intercepting.filtres.Autenticacio;
+import edu.craptocraft.mollap.intercepting.filtres.Autoritzacio;
+import edu.craptocraft.mollap.intercepting.targets.Vehicle;
 
 public final class App {
     public static void main(String[] args) {
