@@ -22,7 +22,7 @@ Dado que se trata de una start-up, el producto se encuentra en desarrollo, motiv
 
 ## Diagrama UML
 
-![Diagrama UML](diagrama_clases_UML_intercepting_filter.gif)
+![Diagrama_UML](./doc/diagrama_clases_UML_intercepting_filter.gif)
 
 
 ## Historias de usuario
